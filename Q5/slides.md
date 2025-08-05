@@ -139,7 +139,7 @@ section.dark-overlay > * {
 </style>
 
 ---
-
+![bg](https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1350&q=80)
 # Algorithmic Complexity
 
 The time complexity of our main sorting algorithm is given by:
