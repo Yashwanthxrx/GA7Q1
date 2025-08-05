@@ -2,6 +2,10 @@
 marp: true
 theme: custom
 paginate: true
+_backgroundImage: https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1350&q=80
+_backgroundSize: cover
+_backgroundPosition: center
+_class: dark-overlay
 ---
 
 <!--
