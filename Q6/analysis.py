@@ -5,7 +5,7 @@ import marimo
 __generated_with = "0.4.15"
 app = marimo.App()
 
-
+ 
 # Cell 1: Importing libraries and loading data
 # This cell initializes the dataset
 @app.cell
